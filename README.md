@@ -18,7 +18,7 @@ The app focuses on clean UI flows, editor integration, and local persistence.
 <p align="left">
    <img alt="a" src="https://github.com/user-attachments/assets/404d18a0-8cb8-47aa-b2ab-98fa8b8d67c4" width="30%">
   <img width="3%">
-  <img alt="b" src="https://github.com/user-attachments/assets/c4b5ee62-e63f-4a43-ab43-ca18a377e742" width="30%">
+  <img alt="b" src="https://github.com/user-attachments/assets/83a8f79f-8e11-4bbf-9a80-5107c5140cbe" width="30%">
 </p>
 
 <p align="left">
